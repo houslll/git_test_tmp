@@ -1,2 +1,6 @@
 this is a word!
-add a line and one
+<<<<<<< HEAD
+add a line + one
+=======
+add a line + one
+>>>>>>> br1
